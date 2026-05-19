@@ -1,1 +1,2 @@
-# 1.2.rhel-linux-ec2-instance
+# creating amazon linux ec2 instance along without aws_key_pair.
+
